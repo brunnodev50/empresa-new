@@ -10,4 +10,5 @@ supervisor: Pode abrir, gerenciar, atribuir chamados a técnicos e atualizar o s
 tecnico: Pode abrir (se permitido), atender os que foram atribuídos a ele, atualizar status, inserir observações/fotos e consultar seu próprio histórico.
 cliente: Pode abrir, acompanhar o status dos seus próprios chamados e inserir informações adicionais. Não vê chamados de outros.
 # chamados/ver.php
-
+texto em log.
+anexo de aquivos: imagens, pdf e video.
