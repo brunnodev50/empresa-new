@@ -33,4 +33,5 @@ ADD COLUMN reset_expires DATETIME NULL DEFAULT NULL;
 Cadastramento de user.
 
 # usuarios/perfil.php
+ALTER TABLE usuarios ADD COLUMN foto VARCHAR(255) DEFAULT NULL;
 
