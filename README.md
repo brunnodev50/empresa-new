@@ -28,3 +28,9 @@ ADD COLUMN reset_expires DATETIME NULL DEFAULT NULL;
 <img width="962" height="458" alt="image" src="https://github.com/user-attachments/assets/baf93013-58b9-4053-91c8-40dc91071616" />
 <img width="1074" height="720" alt="image" src="https://github.com/user-attachments/assets/e6346eb0-f5e7-4aaf-9fda-81b23927e07f" />
 <img width="935" height="653" alt="image" src="https://github.com/user-attachments/assets/e49cd28a-3dc2-4fe4-a545-0e3765dc0df2" />
+
+# usuarios/cadastrar.php
+Cadastramento de user.
+
+# usuarios/perfil.php
+
