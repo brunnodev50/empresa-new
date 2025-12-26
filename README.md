@@ -19,7 +19,6 @@ esqueceu_senha.php (onde o usuário digita o e-mail).
 
 redefinir_senha.php (onde o usuário cria a nova senha).
 
-ALTER TABLE usuarios
-ADD COLUMN reset_token VARCHAR(255) NULL DEFAULT NULL,
-
+ALTER TABLE usuarios 
+ADD COLUMN reset_token VARCHAR(255) NULL DEFAULT NULL, 
 ADD COLUMN reset_expires DATETIME NULL DEFAULT NULL;
